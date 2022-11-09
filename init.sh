@@ -4,7 +4,7 @@ nix-channel --update
 
 nix-env -iA nixos-stable.home-manager
 
-git clone https://github.com/cryx3001/nvim-config.git ~/.config/nvim &
+git clone https://github.com/MatMatty/nvim-config.git ~/.config/nvim &
 
 rm -rf ~/.config/nixpkgs
 mkdir -p ~/.config/nixpkgs
