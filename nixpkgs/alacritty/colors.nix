@@ -8,7 +8,7 @@
     normal = {
         black =   "0x100e23";
         red =     "0xff8080";
-        green =   "0x95ffa4";
+        green =   "0xebbf6f";
         yellow =  "0xffe9aa";
         blue =    "0x91ddff";
         magenta = "0xc991e1";
