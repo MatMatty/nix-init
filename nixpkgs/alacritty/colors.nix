@@ -1,7 +1,7 @@
 {...}:
 {
     primary = {
-        background = "0x202020";
+        background = "0x2c2d30";
         foreground = "0xcbe3e7";
     };
 
