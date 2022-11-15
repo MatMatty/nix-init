@@ -1,19 +1,19 @@
 {...}:
 {
     primary = {
-        background = "0x2c2d30";
-        foreground = "0xcbe3e7";
+        background = "0x232326";
+        foreground = "0xa6aab1";
     };
 
     normal = {
         black =   "0x100e23";
-        red =     "0xff8080";
-        green =   "0xebbf6f";
+        red =     "0xef5265";
+        green =   "0x84b76b";
         yellow =  "0xffe9aa";
-        blue =    "0x91ddff";
-        magenta = "0xc991e1";
-        cyan =    "0xaaffe4";
-        white =   "0xcbe3e7";
+        blue =    "0x39a6eb";
+        magenta = "0xc869d8";
+        cyan =    "0x3486bc";
+        white =   "0xa6aab1";
     };
 
     bright = {
