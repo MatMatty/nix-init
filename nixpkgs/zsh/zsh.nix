@@ -6,8 +6,8 @@ in
 {
     enable = true;
     home.sessionVariables = {
-          PGDATA = "$HOME/postgres_data"
-          PGHOST = "/tmp"
+          PGDATA = "$HOME/postgres_data";
+          PGHOST = "/tmp";
         };
     shellAliases = {
         epita_gcc="gcc -Wall -Wextra -Werror -pedantic -std=c99";
