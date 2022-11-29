@@ -8,7 +8,7 @@ in
     shellAliases = {
         epita_gcc="gcc -Wall -Wextra -Werror -pedantic -std=c99";
         epita_auto_git="$AFS_DIR/nix-init/git_auto.sh";
-        project="cd ~/afs/projects";
+        proj="cd ~/afs/projects";
     };
     oh-my-zsh = import ./oh-my-zsh.nix {};
     zplug = import ./zplug.nix {};
